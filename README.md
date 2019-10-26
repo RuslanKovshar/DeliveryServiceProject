@@ -1,5 +1,4 @@
-# DeliveryServiceProject
-(Rus) Система Доставка Груза. 
+#Система Доставка Груза. 
 Предоставление услуг по получению и доставке груза. 
 
 На сайте содержится информация о тарифах и направления доставки. 
@@ -12,8 +11,8 @@
 
 **Пользователь** может оплатить его в своем кабинете.
 
-
-(EN) Shipping System. The provision of services for the receipt and delivery of goods.
+# Shipping System. 
+The provision of services for the receipt and delivery of goods.
      
 The site contains information on tariffs and delivery directions.
      
